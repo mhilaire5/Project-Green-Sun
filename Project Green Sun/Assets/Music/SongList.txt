@@ -11,7 +11,7 @@ Options Theme
 --
 --
 
-Overworld Theme
+Hub Theme
 Artist:	Hades
 Song:	Short & Sweet
 Link:	http://www.newgrounds.com/audio/listen/154037
@@ -24,6 +24,11 @@ Artist:	Hades
 Song:	Reclaiming the Wastes
 Link:	http://www.newgrounds.com/audio/listen/200408
 
+Level Theme
+Artist:	Waterflame
+Song:	DuneRiders
+Link:	http://www.newgrounds.com/audio/listen/606055
+
 
 Forest
 -----------------
@@ -31,4 +36,20 @@ Overworld Theme
 Artist:	Hades
 Song:	Woodland Bounce
 Link:	http://www.newgrounds.com/audio/listen/161749
+
+
+Sky
+-----------------
+Level Theme
+Artist: Waterflame
+Song:	To the Skies
+Link:	http://www.newgrounds.com/audio/listen/369858
+
+
+Volcano
+-----------------
+Level Theme
+Artist:	Waterflame
+Song:	Afterburners
+Link:	http://www.newgrounds.com/audio/listen/163175
 
